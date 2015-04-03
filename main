@@ -1,6 +1,6 @@
 //This is the main function
 void main()
 {
-
+  System.out.println("This is main");
 
 }
